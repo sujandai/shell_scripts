@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#Basic user interaction
+
+clear
+echo "Enter your first name: "
+read FIRSTNAME
+echo "Enter your last name: "
+read LASTNAME
+echo ""
+echo "Your fullname is: $FIRSTNAME $LASTNAME"
+echo ""
+

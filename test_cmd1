@@ -1,0 +1,12 @@
+#!/bin/bash
+#
+#Test condition basic expample
+#
+clear
+#
+if test
+then 
+   echo "No expression returns a true."
+else 
+   echo "No expression returns a false."
+fi
